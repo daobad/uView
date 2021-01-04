@@ -53,8 +53,8 @@
 			},
 			// 字体大小
 			fontSize: {
-				type: String,
-				default: '28'
+				type: Number,
+				default: 28
 			},
 			// 字体颜色
 			color: {
